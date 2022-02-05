@@ -74,36 +74,471 @@ We will regularly distribute articles and newspaper clippings in class. By doing
 
 This is a graduate subject and as students interested in transportation, you are expected to do the readings in the manner described above. However, the final will reflect only the material discussed in lecture, recitation sessions, assignments, and required readings.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Introduction / Concepts / Principles**{{< /td-colspan >}} |||
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Transportation as a Complex Socio-Technical System {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Transportation Systems Components |  {{< br >}}{{< br >}} R1 and R2. {{< br >}}{{< br >}} Intro to TS. Chapters 1-4. {{< br >}}{{< br >}} {{< h 3 >}}Optional{{< /h >}} {{< br >}}{{< br >}} R3 {{< br >}}{{< br >}}  |
-| 3 | 30 Key Points |  {{< br >}}{{< br >}} Intro to TS. Chapters 6-9. {{< br >}}{{< br >}} {{< h 3 >}}Optional{{< /h >}} {{< br >}}{{< br >}} R4 and R5. {{< br >}}{{< br >}}  |
-| 4 | Class Discussion Based on Article Distributed | R6 |
-| 5 | Modeling / Demand / Equilibrium |  {{< br >}}{{< br >}} R7 {{< br >}}{{< br >}} Intro to TS. Chapters 10-11. {{< br >}}{{< br >}}  |
-| 6 | Modeling / Demand / Equilibrium (cont.) | R8 |
-| 7 | Costing |  {{< br >}}{{< br >}} R9 and R10. {{< br >}}{{< br >}}  |
-| 8 | Costing (cont.) |  {{< br >}}{{< br >}} R11 and R12. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Traveler Transportation**{{< /td-colspan >}} |||
-| 9 | Traveler Level of Service |  {{< br >}}{{< br >}} R13 {{< br >}}{{< br >}} Intro to TS. Chapter 23. {{< br >}}{{< br >}} {{< h 3 >}}Optional{{< /h >}} {{< br >}}{{< br >}} Intro to TS. Chapter 22. {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Urban Transportation and the Land-Use Connection {{< br >}}{{< br >}} Mobility vs. Accessibility {{< br >}}{{< br >}} Urban Form {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R14 {{< br >}}{{< br >}} Intro to TS. Chapter 21. {{< br >}}{{< br >}}  |
-| 11 | Urban Public Transportation | Intro to TS. Chapter 28. |
-| 12 | Urban Public Transportation (cont.) | R15 |
-| 13 |  {{< br >}}{{< br >}} Intercity Traveler Transportation {{< br >}}{{< br >}} High-Speed Rail {{< br >}}{{< br >}} International Contrasts {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Intro to TS. Chapter 30. {{< br >}}{{< br >}} {{< h 3 >}}Optional{{< /h >}} {{< br >}}{{< br >}} Intro to TS. Chapter 29. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Freight Transportation / Logistics**{{< /td-colspan >}} |||
-| 14 | Introduction to Freight / LOS / Logistics | Intro to TS. Chapter 12. |
-| 15 | LOS / Logistics (cont.) | Intro to TS. Chapter 14. |
-| 16 | Modes and their Characteristics — Costs / Service / Operations | Intro to TS. Chapter 16. |
-| 17 | Operations / Operating Plans / Strategic Plans | Intro to TS. Chapters 17 and 19. |
-| 18 | Freight Intermodalism / International Transportation | Intro to TS. Chapter 20. |
-| {{< td-colspan 3 >}}**Themes**{{< /td-colspan >}} |||
-| 19 | Project Evaluation and Finance | R16 |
-| 20 | Public Policy Issues — Privatization | R17 |
-| 21 | Transportation Technologies — Their Role and Limitations | Intro to TS. Chapter 24. |
-| 22 |  {{< br >}}{{< br >}} Transportation in Developing Countries {{< br >}}{{< br >}} Megacities — Mexico City (Demand Revisited) {{< br >}}{{< br >}}  | R18 |
-| 23 |  {{< br >}}{{< br >}} Public Policy Issues: {{< br >}}{{< br >}} Sustainable Development {{< br >}}{{< br >}} Sustainable Transportation {{< br >}}{{< br >}} Transportation and Regional Economic Development {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | Large Scale Infrastructure System — The New York City Subway | {{< h 3 >}}Optional{{< /h >}} {{< br >}}{{< br >}} R19 {{< br >}}{{< br >}}  |
-| 25 | Public Policy Issues — Safety | R20 |
-| {{< td-colspan 3 >}}**Summary**{{< /td-colspan >}} |||
-| 26 |  {{< br >}}{{< br >}} Class Summary and Wrap-up {{< br >}}{{< br >}} Review of Major Concepts {{< br >}}{{< br >}} Student Evaluations and Comments {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Introduction / Concepts / Principles**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Transportation as a Complex Socio-Technical System
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation Systems Components
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R1 and R2.
+
+Intro to TS. Chapters 1-4.
+
+### Optional
+
+R3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+30 Key Points
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intro to TS. Chapters 6-9.
+
+### Optional
+
+R4 and R5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Class Discussion Based on Article Distributed
+{{< tdclose >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling / Demand / Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R7
+
+Intro to TS. Chapters 10-11.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling / Demand / Equilibrium (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Costing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R9 and R10.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Costing (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R11 and R12.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Traveler Transportation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Traveler Level of Service
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R13
+
+Intro to TS. Chapter 23.
+
+### Optional
+
+Intro to TS. Chapter 22.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Urban Transportation and the Land-Use Connection
+
+Mobility vs. Accessibility
+
+Urban Form
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R14
+
+Intro to TS. Chapter 21.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Urban Public Transportation
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to TS. Chapter 28.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Urban Public Transportation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+R15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intercity Traveler Transportation
+
+High-Speed Rail
+
+International Contrasts
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intro to TS. Chapter 30.
+
+### Optional
+
+Intro to TS. Chapter 29.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Freight Transportation / Logistics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Freight / LOS / Logistics
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to TS. Chapter 12.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+LOS / Logistics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to TS. Chapter 14.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Modes and their Characteristics — Costs / Service / Operations
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to TS. Chapter 16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Operations / Operating Plans / Strategic Plans
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to TS. Chapters 17 and 19.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Freight Intermodalism / International Transportation
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to TS. Chapter 20.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Themes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Project Evaluation and Finance
+{{< tdclose >}}
+{{< tdopen >}}
+R16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Public Policy Issues — Privatization
+{{< tdclose >}}
+{{< tdopen >}}
+R17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation Technologies — Their Role and Limitations
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to TS. Chapter 24.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Transportation in Developing Countries
+
+Megacities — Mexico City (Demand Revisited)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+R18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Public Policy Issues:
+
+Sustainable Development
+
+Sustainable Transportation
+
+Transportation and Regional Economic Development
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Large Scale Infrastructure System — The New York City Subway
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Optional
+
+R19
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Public Policy Issues — Safety
+{{< tdclose >}}
+{{< tdopen >}}
+R20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Summary**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Summary and Wrap-up
+
+Review of Major Concepts
+
+Student Evaluations and Comments
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
