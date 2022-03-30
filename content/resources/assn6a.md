@@ -4,6 +4,7 @@ description: Part A addresses issues related to the capacity, performance, and d
   for the Panama Canal.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-201j-introduction-to-transportation-systems-fall-2006/3eceba82b36c4663d56116a996ebf09b_assn6a.pdf
 file_type: application/pdf
+parent_uid: 3e8d8382-a8cb-f639-91a9-f84c28fd8ee3
 resourcetype: Document
 title: assn6a.pdf
 uid: 3eceba82-b36c-4663-d561-16a996ebf09b
