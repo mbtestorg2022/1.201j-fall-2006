@@ -6,6 +6,11 @@ description: Lecture 4, Assignments 2A and 2B are a coordinated enterprise. The 
   and societal issues.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-201j-introduction-to-transportation-systems-fall-2006/2fa4708ad490004a5dddf97c45ced2bf_assn2a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 3e8d8382-a8cb-f639-91a9-f84c28fd8ee3
 resourcetype: Document
 title: assn2a.pdf

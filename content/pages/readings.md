@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e9b735b9-8d49-f829-931d-15c6680a718e
 ---
@@ -25,17 +28,17 @@ This text grew out of the teaching of this subject. So, it supports and suppleme
 
 ### Additional Readings
 
-R1: TRB Executive Committee. "Critical Issues in Transportation 2005." ([PDF - 2.1 MB](http://onlinepubs.trb.org/onlinepubs/general/CriticalIssues06.pdf))
+R1: TRB Executive Committee. "Critical Issues in Transportation 2005." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB](http://onlinepubs.trb.org/onlinepubs/general/CriticalIssues06.pdf))
 
 R2: United States Department of Transportation. "[The Secretary's Vision](https://web.archive.org/web/20060718084104/http://www.dot.gov/stratplan2008/strategic_plan.htm#_Toc52257027)." Department of Transportation Strategic Plan 2003-2008, September 2003 (pp. 1-10).
 
-R3: Federal Transportation Advisory Board. "Vision 2050: An Integrated National Transportation System." ([PDF](http://www.des.ucdavis.edu/faculty/handy/TTP_seminar/National_system.pdf))
+R3: Federal Transportation Advisory Board. "Vision 2050: An Integrated National Transportation System." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.des.ucdavis.edu/faculty/handy/TTP_seminar/National_system.pdf))
 
 R4: Sussman, Joseph M. "Educating the New Transportation Professional." _ITS Quarterly_ (Summer 1995): 3-10.
 
-R5: Pisarski, Alan E. "Prescriptions for Research: Reviewing the History of TRB's Critical Issues in Transportation." _TR News_ 226 (May-June 2003): 30-35. ([PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/trnews/trnews226.pdf))
+R5: Pisarski, Alan E. "Prescriptions for Research: Reviewing the History of TRB's Critical Issues in Transportation." _TR News_ 226 (May-June 2003): 30-35. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/trnews/trnews226.pdf))
 
-R6: Transportation Research Board. "The Interstate Achievement: Getting There and Beyond." _TR News_ 244 (May-June 2006): 3-21 and 30-33. ([PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/trnews/trnews244.pdf))
+R6: Transportation Research Board. "The Interstate Achievement: Getting There and Beyond." _TR News_ 244 (May-June 2006): 3-21 and 30-33. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/trnews/trnews244.pdf))
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/fundamentals-transportation-systems-analysis-volume-1) R7: Manheim, Marvin L. "Challenge of Transportation Systems Analysis." In [_Fundamentals of Transportation Systems Analysis_.](https://mitpress.mit.edu/books/fundamentals-transportation-systems-analysis-volume-1) Cambridge, MA: MIT Press, 1979. ISBN: 0262632896.
 
@@ -61,7 +64,7 @@ R17: National Cooperative Highway Research Program. "Emerging Models for Deliver
 
 R18: Molina, Luisa. _Air Quality in the Mexico Megacity: An Integrated Assessment_. Norwell, MA: Kluwer Academic Publishers, 2002. ISBN: 1402005075.
 
-R19: Transportation Research Board. "New York City's Subway Century." _TR News_ 242 (January-February 2006). ([PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/trnews/trnews242.pdf))
+R19: Transportation Research Board. "New York City's Subway Century." _TR News_ 242 (January-February 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/trnews/trnews242.pdf))
 
 R20: Coughlin, Joseph F., and Bryan Reimer. "New Demands from an Older Population: An Integrated Approach to Defining the Future of Older Driver Safety." Proceedings of the SAE Convergence Conference (2006).
 
